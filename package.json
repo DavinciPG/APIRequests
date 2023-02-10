@@ -1,0 +1,26 @@
+{
+  "name": "apirequests",
+  "version": "1.0.0",
+  "description": "template for a authorized api usage",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavinciPG/APIRequests.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Erkz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavinciPG/APIRequests/issues"
+  },
+  "homepage": "https://github.com/DavinciPG/APIRequests#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
